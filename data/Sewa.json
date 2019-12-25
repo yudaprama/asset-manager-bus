@@ -1,0 +1,27 @@
+[
+  {
+    "Lokasi": "Kelapa Gading",
+    "Luas": 24,
+    "Cost": 1000000
+  },
+  {
+    "Lokasi": "Blok M",
+    "Luas": 20,
+    "Cost": 1500000
+  },
+  {
+    "Lokasi": "Taman Anggrek",
+    "Luas": 24,
+    "Cost": 2000000
+  },
+  {
+    "Lokasi": "Citos",
+    "Luas": 16,
+    "Cost": 1000000
+  },
+  {
+    "Lokasi": "Senayan",
+    "Luas": 15,
+    "Cost": 1000000
+  }
+]

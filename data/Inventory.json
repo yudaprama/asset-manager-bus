@@ -1,0 +1,92 @@
+{
+	"Product":[
+		{
+		  "Item": "Regular",
+		  "Price": 6000,
+		  "Identifier": "number"
+		},
+		{
+		  "Item": "Cheese",
+		  "Price": 8000,
+		  "Identifier": "number"
+		},
+		{
+		  "Item": "Double",
+		  "Price": 10000,
+		  "Identifier": "number"
+		},
+		{
+		  "Item": "CostChange",
+		  "Price": 0.0751,
+		  "Identifier": "percent"
+		}
+	],
+	"COGS": [
+		{
+	    "Item": "Roti",
+	    "Cost": 800,
+	    "Inflation": 0.0851,
+	    "PaymentDue": 12
+	  },
+	  {
+	    "Item": "Daging",
+	    "Cost": 1200,
+	    "Inflation": 0.0478,
+	    "PaymentDue": 30
+	  },
+	  {
+	    "Item": "Salada",
+	    "Cost": 250,
+	    "Inflation": 0.1629,
+	    "PaymentDue": 1
+	  },
+	  {
+	    "Item": "Tomat",
+	    "Cost": 500,
+	    "Inflation": 0.1629,
+	    "PaymentDue": 3
+	  },
+	  {
+	    "Item": "Timun",
+	    "Cost": 500,
+	    "Inflation": 0.1629,
+	    "PaymentDue": 3
+	  },
+	  {
+	    "Item": "Saus Tomat",
+	    "Cost": 14,
+	    "Inflation": 0.0851,
+	    "PaymentDue": 15
+	  },
+	  {
+	    "Item": "Saus Sambal",
+	    "Cost": 15,
+	    "Inflation": 0.0851,
+	    "PaymentDue": 15
+	  },
+	  {
+	    "Item": "Mayonese",
+	    "Cost": 42,
+	    "Inflation": 0.0851,
+	    "PaymentDue": 15
+	  },
+	  {
+	    "Item": "Cheese",
+	    "Cost": 1200,
+	    "Inflation": 0.0851,
+	    "PaymentDue": 10
+	  },
+	  {
+	    "Item": "Mentega",
+	    "Cost": 10,
+	    "Inflation": -0.0494,
+	    "PaymentDue": 7
+	  },
+	  {
+	    "Item": "Kertas Roti",
+	    "Cost": 75,
+	    "Inflation": 0.0851,
+	    "PaymentDue": 5
+	  }
+  ]
+}

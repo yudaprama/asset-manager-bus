@@ -1,0 +1,37 @@
+[
+  {
+    "Item": "Akta Notaris",
+    "Cost": 8000000,
+    "Section": "Fixed"
+  },
+  {
+    "Item": "SIUP",
+    "Cost": 1000000,
+    "Section": "Fixed"
+  },
+  {
+    "Item": "NPWP",
+    "Cost": 200000,
+    "Section": "Fixed"
+  },
+  {
+    "Item": "Izin BKPM",
+    "Cost": 1500000,
+    "Section": "Fixed"
+  },
+  {
+    "Item": "Izin  Domisili Usaha dari Camat/RT",
+    "Cost": 300000,
+    "Section": "Fixed"
+  },
+  {
+    "Item": "Biaya Biaya Praoperasi",
+    "Cost": 2000000,
+    "Section": "Variable"
+  },
+  {
+    "Item": "Promosi",
+    "Cost": 1000000,
+    "Section": "Variable"
+  }
+]

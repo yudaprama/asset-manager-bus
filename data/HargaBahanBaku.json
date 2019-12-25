@@ -1,0 +1,68 @@
+[
+  {
+    "Item": "Roti",
+    "Harga": 800,
+    "Inflasi": 0.0851,
+    "PaymentDue": 12
+  },
+  {
+    "Item": "Daging",
+    "Harga": 1200,
+    "Inflasi": 0.0478,
+    "PaymentDue": 30
+  },
+  {
+    "Item": "Salada",
+    "Harga": 250,
+    "Inflasi": 0.1629,
+    "PaymentDue": 1
+  },
+  {
+    "Item": "Tomat",
+    "Harga": 500,
+    "Inflasi": 0.1629,
+    "PaymentDue": 3
+  },
+  {
+    "Item": "Timun",
+    "Harga": 500,
+    "Inflasi": 0.1629,
+    "PaymentDue": 3
+  },
+  {
+    "Item": "Saus Tomat",
+    "Harga": 14,
+    "Inflasi": 0.0851,
+    "PaymentDue": 15
+  },
+  {
+    "Item": "Saus Sambal",
+    "Harga": 15,
+    "Inflasi": 0.0851,
+    "PaymentDue": 15
+  },
+  {
+    "Item": "Mayonese",
+    "Harga": 42,
+    "Inflasi": 0.0851,
+    "PaymentDue": 15
+  },
+  {
+    "Item": "Cheese",
+    "Harga": 1200,
+    "Inflasi": 0.0851,
+    "PaymentDue": 10
+  },
+  {
+    "Item": "Mentega",
+    "Harga": 10,
+    "Inflasi": -0.0494,
+    "PaymentDue": 7
+  },
+  {
+    "Item": "Kertas Roti",
+    "Harga": 75,
+    "Inflasi": 0.0851,
+    "PaymentDue": 5
+  }
+]

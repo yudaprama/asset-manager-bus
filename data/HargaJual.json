@@ -1,0 +1,22 @@
+[
+  {
+    "Item": "Regular",
+    "Value": 6000,
+    "Identifier": "number"
+  },
+  {
+    "Item": "Cheese",
+    "Value": 8000,
+    "Identifier": "number"
+  },
+  {
+    "Item": "Double",
+    "Value": 10000,
+    "Identifier": "number"
+  },
+  {
+    "Item": "PriceChange",
+    "Value": 0.0751,
+    "Identifier": "percent"
+  }
+]

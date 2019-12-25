@@ -1,0 +1,1 @@
+export default (uri,ext) => ({uri:`https://raw.githubusercontent.com/namestise/data/master/img/${uri}.${ext ? ext : 'png'}`})
